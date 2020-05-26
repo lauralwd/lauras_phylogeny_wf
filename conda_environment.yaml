@@ -1,0 +1,14 @@
+name: phylogenetics
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - iqtree=1.6.12=he513fc3_0
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - mafft=7.455=h516909a_0
+  - trimal=1.4.1=h6bb024c_3
+  - zlib=1.2.11=h7b6447c_3
+prefix: /home/laura/miniconda3/envs/phylogenetics
+
