@@ -30,6 +30,8 @@ This workflow aims to guide you through the following steps
  - visualise the phylogenetic tree with iTol
    - annotate the phylogenetic tree in iTol
 
+![workflow sketch](./docs/workflow_sketch.png)
+
 
 ## Published Examples
 Please find published examples here:
