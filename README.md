@@ -16,19 +16,18 @@ Third, you need one sequence or sequence ID you are interested in.
 
 ### steps
 This workflow aims to guide you through the following steps
-
- - acquire homologous sequences to your sequence via either ncbi blast, or the 1kP project (only for plant sequences)
- - subset your input to contain all sequences of a limited number of species
- - align sequences with `mafft`
- - trim alignment with `trimAL`
+ 1. acquire homologous sequences to your sequence via either ncbi blast, or the 1kP project (only for plant sequences)
+ 2. subset your input to contain all sequences of a limited number of species
+ 3. align sequences with `mafft`
+ 4. trim alignment with `trimAL`
     - Visualise alignment with Jalview
     - Evaluate and optimise
- - infer a phylogenetic tree with fasttree
- - infer a phylogenetic tree with IQtree
-   - use modelfitting
-   - choose a bootstrap method
- - visualise the phylogenetic tree with iTol
-   - annotate the phylogenetic tree in iTol
+ 5. infer a phylogenetic tree with fasttree
+ 6. infer a phylogenetic tree with IQtree
+    - use modelfitting
+    - choose a bootstrap method
+ 7. visualise the phylogenetic tree with iTol
+    - annotate the phylogenetic tree in iTol
 
 ![workflow sketch](./docs/workflow_sketch.png)
 
