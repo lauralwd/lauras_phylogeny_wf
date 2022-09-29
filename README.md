@@ -12,7 +12,7 @@ Perhaps take a look at their [short video abstract](https://www.youtube.com/watc
 ### requirements
 To do this workflow, you need a linux environment like a linux computer, MacOS, or the 'windows sublayer for linux'. 
 Second, you need the `conda` or `miniconda` framework for installing bioinformatics software. 
-Install all required software as detailed in the conda environment included in this repository like so: `conda env create -f ./envs/conda-env-jalview.yaml`.
+Install all required software as detailed in the conda environment included in this repository like so: `conda env create -f conda_environment.yaml`.
 Third, you need one sequence or sequence ID you are interested in.
 
 ### steps
